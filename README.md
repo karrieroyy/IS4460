@@ -1,2 +1,2 @@
 # IS4460
-Code Collaboration
+Code collaboration for in-class/homework projects
